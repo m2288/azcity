@@ -4,15 +4,72 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".MainActivity">
+    android:background="@color/teal_700"
+    tools:context=".MainActivity"
+    >
+
 
     <TextView
-        android:layout_width="wrap_content"
+        android:id="@+id/tv_head"
+        android:layout_width="match_parent"
+        android:gravity="center"
+        android:background="@drawable/layout_bg_head"
         android:layout_height="wrap_content"
-        android:text="Hello World!!!"
-        app:layout_constraintBottom_toBottomOf="parent"
+        android:text="@string/az_rbaycan_n_h_rl_ri"
+        android:textColor="@color/white"
+        android:textSize="21sp"
+        android:layout_margin="20sp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
+
+    <Spinner
+        android:id="@+id/spn_cities"
+        android:background="@drawable/layout_bg"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="4dp"
+        android:textColor="@color/teal_700"
+        android:layout_margin="49dp"
+        android:entries="@array/cities"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/tv_head">
+
+    </Spinner>
+
+    <ImageView
+        android:id="@+id/cities_img"
+        android:layout_width="300dp"
+        android:layout_height="300dp"
+        android:layout_margin="10sp"
+        android:layout_marginStart="8dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginBottom="50dp"
+        android:src="@drawable/baku_city"
+        app:layout_constraintBottom_toTopOf="@+id/tv_city_info"
+        app:layout_constraintCircleRadius="@dimen/cardview_default_radius"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/spn_cities"
+        android:background="@drawable/layout_bg_img"
+        />
+
+
+    <TextView
+        android:id="@+id/tv_city_info"
+        android:background="@drawable/layout_bg"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="7dp"
+        android:layout_marginEnd="7dp"
+        android:padding="4dp"
+        android:text="@string/se_ilmi_h_r_haqq_nda_m_lumat"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:textColor="@color/teal_200"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/cities_img"
+        android:layout_marginTop="-50dp"/>
 
 </androidx.constraintlayout.widget.ConstraintLayout>
