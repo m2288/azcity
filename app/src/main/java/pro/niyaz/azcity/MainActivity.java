@@ -58,7 +58,7 @@ public class MainActivity extends AppCompatActivity {
                     case 5:
                         break;
                 }*/
-                tv_city_info.setText(""+about_cities[position]);
+                tv_city_info.setText(about_cities[position]);
                 cities_img.setImageResource(cities_list[position]);
             }
 

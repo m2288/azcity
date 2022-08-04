@@ -2,6 +2,7 @@
     <string name="app_name">Şəhərlər</string>
     <string name="az_rbaycan_n_h_rl_ri">Azərbaycanın şəhərləri</string>
     <string name="se_ilmi_h_r_haqq_nda_m_lumat">Seçilmiş şəhər haqqında məlumat ...</string>
+    <string name="city_image">city image</string>
     <string-array name="cities">
         <item>Bakı</item>
         <item>Mingəçevir</item>
@@ -17,7 +18,7 @@
         <item>Xaçmaz rayonu — Azərbaycan Respublikasında inzibati – ərazi vahidi. İnzibati mərkəzi Xaçmaz şəhəridir.
 
 Azərbaycanın dilbər guşələrindən olan, qədim tarixə malik Xaçmaz respublikamızın şimal bölgəsində yerləşən sərhəd rayonlarından biridir. Azərbaycanın qədim yaşayış məskənlərindən olan Xaçmaz rayonu 1930-cu ildə yaradılmışdır. Xaçmaz 1936-1937-ci illərdə şəhər tipli qəsəbə olmuşdur. 1963-cü ildə Xaçmaz rayonu ləğv edilib, ərazisi Quba və Qusar rayonlarına verilmişdir.</item>
-        <item>Şuşa — Azərbaycan Respublikasının Dağlıq Qarabağ bölgəsində yerləşən şəhər. Azərbaycanın mədəniyyət paytaxtı.Şuşa rayonunun inzibati mərkəzi.Şəhərin təməli 1752-ci ildə Qarabağ xanı Pənahəli xan tərəfindən qoyulub və ilk çağlarda şəhəri Şuşa adı ilə yanaşı xanın şərəfinə Pənahabad adlandırırdılar. Şuşada 17 məhəllə vardı: Seyidli, Culfalar, Quyuluq, Çuxur məhəllə, Dörd çinar, Dördlər qurdu, Hacı Yusifli, Çöl Qala, Qurdlar, Saatlı, Köçərli, Mamayı, Xoca Mərcanlı, Dəmirçilər, Hamamqabağı, Merdinli və Təzə məhəllə.Hər məhəllədə hamam, məscid və bulaq vardı.</item>
+        <item>Şuşa — Azərbaycan Respublikasının Dağlıq Qarabağ bölgəsində yerləşən şəhər. Azərbaycanın mədəniyyət paytaxtı.Şuşa rayonunun inzibati mərkəzi.Şəhərin təməli 1752-ci ildə Qarabağ xanı Pənahəli xan tərəfindən qoyulub və ilk çağlarda şəhəri Şuşa adı ilə yanaşı xanın şərəfinə Pənahabad adlandırırdılar.  </item>
         <item>Kəlbəcər (1960-1980-ci illərdə şəhər tipli qəsəbə) — Azərbaycan Respublikasının Kəlbəcər rayonunun mərkəzi, Kəlbəcər şəhər inzibati ərazi dairəsində şəhər.
 
 1993-cü il aprel ayının 2-də Ermənistan silahlı qüvvələri tərəfindən işğal olunub. 10 noyabr 2020-ci ildə imzalanan atəşkəs bəyanatına əsasən 25 noyabrda Ermənistan Silahlı Birləşmələri Kəlbəcər rayonunu boşaldıb Azərbaycan Silahlı Qüvvələrinə təhvil vermişdir.</item>

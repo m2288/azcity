@@ -3,7 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/Admin/StudioProjects/azcity/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/Admin/StudioProjects/azcity/app/src/main/res/drawable-v24/layout_bg_img.xml" value="0.222" />
+        <entry key="..\:/Users/Admin/StudioProjects/azcity/app/src/main/res/drawable/layout_bg.xml" value="0.222" />
+        <entry key="..\:/Users/Admin/StudioProjects/azcity/app/src/main/res/layout/activity_main.xml" value="0.25" />
       </map>
     </option>
   </component>
