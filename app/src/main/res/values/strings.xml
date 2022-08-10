@@ -1,8 +1,12 @@
 <resources>
-    <string name="app_name">Şəhərlər</string>
-    <string name="az_rbaycan_n_h_rl_ri">Azərbaycanın şəhərləri</string>
-    <string name="se_ilmi_h_r_haqq_nda_m_lumat">Seçilmiş şəhər haqqında məlumat ...</string>
-    <string name="city_image">city image</string>
+    <string name="app_name" translatable="false">Şəhərlər</string>
+    <string name="az_rbaycan_n_h_rl_ri" translatable="false">Azərbaycanın şəhərləri</string>
+    <string name="se_ilmi_h_r_haqq_nda_m_lumat" translatable="false">Seçilmiş şəhər haqqında məlumat ...</string>
+    <string name="city_image" translatable="false">city image</string>
+    <string name="add">Add</string>
+    <string name="delete">Delete</string>
+    <string name="send">Send</string>
+    <string name="save">Save</string>
     <string-array name="cities">
         <item>Bakı</item>
         <item>Mingəçevir</item>
@@ -23,4 +27,5 @@ Azərbaycanın dilbər guşələrindən olan, qədim tarixə malik Xaçmaz respu
 
 1993-cü il aprel ayının 2-də Ermənistan silahlı qüvvələri tərəfindən işğal olunub. 10 noyabr 2020-ci ildə imzalanan atəşkəs bəyanatına əsasən 25 noyabrda Ermənistan Silahlı Birləşmələri Kəlbəcər rayonunu boşaldıb Azərbaycan Silahlı Qüvvələrinə təhvil vermişdir.</item>
     </string-array>
+    <string name="other">other</string>
 </resources>

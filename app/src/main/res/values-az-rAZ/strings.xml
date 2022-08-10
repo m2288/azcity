@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="add">Əlavə et</string>
+    <string name="delete">Sil</string>
+    <string name="send">Göndər</string>
+    <string name="save">Saxla</string>
+    <string name="other">Diglər</string>
+</resources>

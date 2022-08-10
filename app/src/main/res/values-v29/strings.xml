@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="city_image">city image</string>
+    <string name="city_image" translatable="false">city image</string>
 </resources>
